@@ -58,7 +58,7 @@ class _CurrencyConverterMaterialPagee extends State {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              "INR $result",
+              "INR ${result.toStringAsFixed(2)}",
               style: TextStyle(
                 fontSize: 55,
                 fontWeight: FontWeight.bold,
