@@ -1,4 +1,3 @@
-Here’s a clean, beginner-friendly **README.md** you can directly use for your **Currency Converter Flutter project**. It matches your current code and Flutter 3.19+ practices.
 
 ---
 
