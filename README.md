@@ -36,8 +36,8 @@ This project is built using **Flutter Material Design** and is ideal for beginne
 1. Enter an amount in USD
 2. Tap **Convert**
 3. Converted amount in INR is displayed instantly
+---![cur](https://github.com/user-attachments/assets/3d222c2f-1df4-489a-853e-20897c3c76e7)
 
----
 
 ## 🧮 Conversion Logic
 
