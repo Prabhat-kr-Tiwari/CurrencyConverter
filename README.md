@@ -132,11 +132,4 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-If you want, I can:
 
-* Add **API-based conversion**
-* Refactor this using **MVVM**
-* Create a **production-ready README with screenshots**
-* Improve input validation
-
-Just tell me 😊
