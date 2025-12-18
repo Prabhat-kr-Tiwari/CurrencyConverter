@@ -28,6 +28,11 @@ class _CurrencyConverterCupertinoPage extends State {
     super.initState();
     print("rebuild");
   }
+  @override
+  void dispose() {
+    usdController.dispose();
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
