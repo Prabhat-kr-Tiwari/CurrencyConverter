@@ -24,6 +24,7 @@ This project is built using **Flutter Material Design** and is ideal for beginne
 * **Flutter**
 * **Dart**
 * **Material Design**
+* **Cupertino Design**
 * Widgets Layer (`WidgetStateProperty`) compliant
 
 ---
