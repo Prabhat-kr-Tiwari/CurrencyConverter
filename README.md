@@ -37,6 +37,7 @@ This project is built using **Flutter Material Design** and is ideal for beginne
 2. Tap **Convert**
 3. Converted amount in INR is displayed instantly
 ---![cur](https://github.com/user-attachments/assets/3d222c2f-1df4-489a-853e-20897c3c76e7)
+![ccup](https://github.com/user-attachments/assets/03012637-5169-4d44-92d1-4a2e76f3577a)
 
 
 ## 🧮 Conversion Logic
